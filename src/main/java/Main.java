@@ -22,5 +22,7 @@ public class Main {
         magicBox1.add(5);
         magicBox1.pick();
 
+
+
     }
 }
